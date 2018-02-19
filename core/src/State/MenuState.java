@@ -9,9 +9,9 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
  * Created by Maka on 17.02.2018.
  */
 
-public class MenuState extends State.State {
+public class MenuState extends State {
     private Texture backgroundMenu;
-    private State.State state;
+    private State state;
 
 
     public MenuState(StateManager sm) {
