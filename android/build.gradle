@@ -19,7 +19,7 @@ android {
     }
     defaultConfig {
         applicationId "com.froggyfun"
-        minSdkVersion 9
+        minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -95,8 +95,8 @@ eclipse {
     }
 
     jdt {
-        sourceCompatibility = 1.6
-        targetCompatibility = 1.6
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
     }
 
     classpath {
@@ -137,4 +137,6 @@ idea {
     }
 }
 dependencies {
+    implementation 'com.google.android.gms:play-services-ads:11.0.4'
 }
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,106 @@
+
+skin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_1
+  rotate: false
+  xy: 1, 432
+  size: 803, 372
+  orig: 803, 372
+  offset: 0, 0
+  index: -1
+field
+  rotate: false
+  xy: 1, 245
+  size: 789, 185
+  orig: 789, 185
+  offset: 0, 0
+  index: -1
+
+skin2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+playGreen
+  rotate: false
+  xy: 1, 1
+  size: 701, 701
+  orig: 701, 701
+  offset: 0, 0
+  index: -1
+
+skin3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+play
+  rotate: false
+  xy: 1, 308
+  size: 701, 701
+  orig: 701, 701
+  offset: 0, 0
+  index: -1
+b_5
+  rotate: false
+  xy: 1, 1
+  size: 602, 305
+  orig: 602, 305
+  offset: 0, 0
+  index: -1
+
+skin4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Characterisic
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+skin5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Damage
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+skin6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadedDark01
+  rotate: false
+  xy: 515, 575
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+shadedDark07
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+Timer
+  rotate: false
+  xy: 1, 163
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

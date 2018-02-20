@@ -1,0 +1,52 @@
+{
+"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+	"Characterisic": {
+		"file": "Characterisic.fnt"
+	},
+	"Damage": {
+		"file": "Damage.fnt"
+	},
+	"Timer": {
+		"file": "Timer.fnt"
+	}
+},
+"com.badlogic.gdx.graphics.Color": {
+	"RGBA_80_70_70_255": {
+		"r": 0.31666666,
+		"g": 0.2776111,
+		"b": 0.2776111,
+		"a": 1
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+	"default": {
+		"up": "b_1",
+		"down": "b_5"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+	"default": {
+		"imageUp": "playGreen",
+		"imageDown": "play"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+	"default": {
+		"font": "Damage",
+		"fontColor": "RGBA_80_70_70_255"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+	"default": {
+		"label": "default",
+		"background": "field",
+		"wrapWidth": 2
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle": {
+	"default": {
+		"background": "shadedDark01",
+		"knob": "shadedDark07"
+	}
+}
+}
