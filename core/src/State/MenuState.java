@@ -13,12 +13,13 @@ import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
+
+
 /**
  * Created by Maka on 17.02.2018.
  */
 
 public class MenuState extends State {
- //   private FirebaseAuth mAuth;
     private Texture backgroundMenu;
     private Skin skin;
     private Stage stage;
@@ -28,7 +29,6 @@ public class MenuState extends State {
     super(sm);
     this.stage = new Stage();
     Gdx.input.setInputProcessor(stage);
-
     this.skin = new Skin(Gdx.files.internal("skin\\mainskin\\FroggyFun_data\\skin.json"));
     this.backgroundMenu = new Texture("Background\\1.png");
     this.playButton = new ImageButton(skin);

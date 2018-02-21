@@ -11,7 +11,6 @@ import State.StateManager;
 
 public class FroggyFun extends ApplicationAdapter {
 	public static final String TITLE = "FroggyFun";
-
 	private SpriteBatch batch;
 	private StateManager sm;
 	
